@@ -1,5 +1,6 @@
 import React from 'react';
 import { useFormik } from 'formik';
+import './Signup.css';
 
 const validate = values => {
     const errors = {};
